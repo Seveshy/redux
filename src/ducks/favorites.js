@@ -15,3 +15,5 @@ export default function favorites(state = INITIAL_STATE, action) {
 			return state;
 	}
 }
+
+export const Creators = {};
